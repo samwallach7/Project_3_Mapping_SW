@@ -323,13 +323,17 @@ for (let i = 0; i < jsonData.length; i++) {
         teamMoveMarker.bindPopup(`<h2>${team.teamName}</h2><hr> Year Founded: ${team.year}
         <br>Franchise: ${team.franchID}<br>Total Seasons: ${team.totalSeasons}<br>Last Season: ${team.lastSeason}
         <br>Team Changed To: ${team.teamChange}`);
-        teamMoveMarkers.push(teamMoveMarker); // Push marker to array
 
         // Add animation to the marker with CSS
         teamMoveMarker.on('click', function() {
             teamMoveMarker._icon.classList.toggle('dimmed-marker'); // Dim the clicked marker
             teamMoveMarker._icon.classList.toggle('highlighted-marker'); // Highlight the marker
+            // Define the line variables
+            let line = [[team.lat, team.long], [team.teamChangeLat, team.teamChangeLong]];
+            animateMarkerAlongLine(teamMoveMarker, line);
         });
+
+        teamMoveMarkers.push(teamMoveMarker); // Push marker to array
 
         // Define the line variables
         let line = [[team.lat, team.long], [team.teamChangeLat, team.teamChangeLong]];
@@ -354,6 +358,34 @@ for (let i = 0; i < jsonData.length; i++) {
         });
         teamMoveMarkers.push(teamMovePolyline); // Push line to array
     }
+}
+
+// Function to animate marker along line
+function animateMarkerAlongLine(teamMoveMarker, line) {
+    let animationProperties = {
+      duration: 3000, // Animation duration in milliseconds
+      easing: 'linear' // Animation easing function
+    };
+  
+    anime({
+      targets: teamMoveMarker._icon,
+      translateX: line.map(coord => coord[1]),
+      translateY: line.map(coord => coord[0]),
+      easing: animationProperties.easing,
+      duration: animationProperties.duration,
+      update: function(anim) {
+        // Update marker position during animation
+        let lng = line[line.length - 1][1]; // Endpoint's longitude
+        let lat = line[line.length - 1][0]; // Endpoint's latitude
+        teamMoveMarker.setLatLng([lat, lng]);
+      },
+      complete: function() {
+        // After animation completes, move marker back to starting point with a delay
+        setTimeout(function() {
+          teamMoveMarker.setLatLng(line[0]); // Move marker back to starting point
+        }, 2000); // Delay in milliseconds
+      }
+    });
 }
 
 // Layer 9: AHL affiliates
