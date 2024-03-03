@@ -1,6 +1,7 @@
 [
     {
-        "year": 1917,
+        "tmNo": 1,
+        "year_": 1917,
         "lgID": "NHL",
         "tmID": "MTL",
         "franchID": "MTL",
@@ -24,7 +25,8 @@
         "echlAffiliate": "Trois-Rivieres Lions"
     },
     {
-        "year": 1917,
+        "tmNo": 2,
+        "year_": 1917,
         "lgID": "NHL",
         "tmID": "MTW",
         "franchID": "MTW",
@@ -48,7 +50,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1917,
+        "tmNo": 3,
+        "year_": 1917,
         "lgID": "NHL",
         "tmID": "STE",
         "franchID": "STE",
@@ -72,7 +75,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1917,
+        "tmNo": 4,
+        "year_": 1917,
         "lgID": "NHL",
         "tmID": "TOR",
         "franchID": "TOR",
@@ -96,7 +100,8 @@
         "echlAffiliate": "Newfoundland Growlers"
     },
     {
-        "year": 1917,
+        "tmNo": 5,
+        "year_": 1917,
         "lgID": "NHL",
         "tmID": "OTS",
         "franchID": "STE",
@@ -120,7 +125,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1917,
+        "tmNo": 6,
+        "year_": 1917,
         "lgID": "NHL",
         "tmID": "TOA",
         "franchID": "TOR",
@@ -144,7 +150,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1919,
+        "tmNo": 7,
+        "year_": 1919,
         "lgID": "NHL",
         "tmID": "QUB",
         "franchID": "BKN",
@@ -168,7 +175,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1919,
+        "tmNo": 8,
+        "year_": 1919,
         "lgID": "NHL",
         "tmID": "BKN",
         "franchID": "BKN",
@@ -192,7 +200,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1919,
+        "tmNo": 9,
+        "year_": 1919,
         "lgID": "NHL",
         "tmID": "TRS",
         "franchID": "TOR",
@@ -216,7 +225,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1920,
+        "tmNo": 10,
+        "year_": 1920,
         "lgID": "NHL",
         "tmID": "HAM",
         "franchID": "BKN",
@@ -240,7 +250,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1924,
+        "tmNo": 11,
+        "year_": 1924,
         "lgID": "NHL",
         "tmID": "BOS",
         "franchID": "BOS",
@@ -264,7 +275,8 @@
         "echlAffiliate": "Maine Mariners"
     },
     {
-        "year": 1924,
+        "tmNo": 12,
+        "year_": 1924,
         "lgID": "NHL",
         "tmID": "MTM",
         "franchID": "MTM",
@@ -288,7 +300,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1925,
+        "tmNo": 13,
+        "year_": 1925,
         "lgID": "NHL",
         "tmID": "NYA",
         "franchID": "BKN",
@@ -312,7 +325,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1925,
+        "tmNo": 14,
+        "year_": 1925,
         "lgID": "NHL",
         "tmID": "PHQ",
         "franchID": "PHQ",
@@ -336,7 +350,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1925,
+        "tmNo": 15,
+        "year_": 1925,
         "lgID": "NHL",
         "tmID": "PIP",
         "franchID": "PHQ",
@@ -360,7 +375,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1926,
+        "tmNo": 16,
+        "year_": 1926,
         "lgID": "NHL",
         "tmID": "DTC",
         "franchID": "DET",
@@ -384,7 +400,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1926,
+        "tmNo": 17,
+        "year_": 1926,
         "lgID": "NHL",
         "tmID": "CHI",
         "franchID": "CHI",
@@ -408,7 +425,8 @@
         "echlAffiliate": "Indy Fuel"
     },
     {
-        "year": 1926,
+        "tmNo": 18,
+        "year_": 1926,
         "lgID": "NHL",
         "tmID": "DET",
         "franchID": "DET",
@@ -432,7 +450,8 @@
         "echlAffiliate": "Toledo Walleye"
     },
     {
-        "year": 1926,
+        "tmNo": 19,
+        "year_": 1926,
         "lgID": "NHL",
         "tmID": "NYR",
         "franchID": "NYR",
@@ -456,7 +475,8 @@
         "echlAffiliate": "Cincinnati Cyclones"
     },
     {
-        "year": 1930,
+        "tmNo": 20,
+        "year_": 1930,
         "lgID": "NHL",
         "tmID": "DTF",
         "franchID": "DET",
@@ -480,7 +500,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1967,
+        "tmNo": 21,
+        "year_": 1967,
         "lgID": "NHL",
         "tmID": "OAK",
         "franchID": "CLE",
@@ -504,7 +525,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1967,
+        "tmNo": 22,
+        "year_": 1967,
         "lgID": "NHL",
         "tmID": "MNS",
         "franchID": "DAL",
@@ -528,7 +550,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1967,
+        "tmNo": 23,
+        "year_": 1967,
         "lgID": "NHL",
         "tmID": "CLE",
         "franchID": "CLE",
@@ -552,7 +575,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1967,
+        "tmNo": 24,
+        "year_": 1967,
         "lgID": "NHL",
         "tmID": "DAL",
         "franchID": "DAL",
@@ -576,7 +600,8 @@
         "echlAffiliate": "Idaho Steelheads"
     },
     {
-        "year": 1967,
+        "tmNo": 25,
+        "year_": 1967,
         "lgID": "NHL",
         "tmID": "LAK",
         "franchID": "LAK",
@@ -600,7 +625,8 @@
         "echlAffiliate": "Greenville Swamp Rabbits"
     },
     {
-        "year": 1967,
+        "tmNo": 26,
+        "year_": 1967,
         "lgID": "NHL",
         "tmID": "PHI",
         "franchID": "PHI",
@@ -624,7 +650,8 @@
         "echlAffiliate": "Reading Royals"
     },
     {
-        "year": 1967,
+        "tmNo": 27,
+        "year_": 1967,
         "lgID": "NHL",
         "tmID": "PIT",
         "franchID": "PIT",
@@ -648,7 +675,8 @@
         "echlAffiliate": "Wheeling Nailers"
     },
     {
-        "year": 1967,
+        "tmNo": 28,
+        "year_": 1967,
         "lgID": "NHL",
         "tmID": "STL",
         "franchID": "STL",
@@ -672,7 +700,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1970,
+        "tmNo": 29,
+        "year_": 1970,
         "lgID": "NHL",
         "tmID": "CLF",
         "franchID": "CLE",
@@ -696,7 +725,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1970,
+        "tmNo": 30,
+        "year_": 1970,
         "lgID": "NHL",
         "tmID": "BUF",
         "franchID": "BUF",
@@ -720,7 +750,8 @@
         "echlAffiliate": "Jacksonville Icemen"
     },
     {
-        "year": 1970,
+        "tmNo": 31,
+        "year_": 1970,
         "lgID": "NHL",
         "tmID": "VAN",
         "franchID": "VAN",
@@ -744,7 +775,8 @@
         "echlAffiliate": "Kalamazoo Wings"
     },
     {
-        "year": 1972,
+        "tmNo": 32,
+        "year_": 1972,
         "lgID": "NHL",
         "tmID": "ATF",
         "franchID": "CAL",
@@ -768,7 +800,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1972,
+        "tmNo": 33,
+        "year_": 1972,
         "lgID": "NHL",
         "tmID": "CAL",
         "franchID": "CAL",
@@ -792,7 +825,8 @@
         "echlAffiliate": "Rapid City Rush"
     },
     {
-        "year": 1972,
+        "tmNo": 34,
+        "year_": 1972,
         "lgID": "NHL",
         "tmID": "NYI",
         "franchID": "NYI",
@@ -816,7 +850,8 @@
         "echlAffiliate": "Worcester Railers"
     },
     {
-        "year": 1974,
+        "tmNo": 35,
+        "year_": 1974,
         "lgID": "NHL",
         "tmID": "KCS",
         "franchID": "NJD",
@@ -840,7 +875,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1974,
+        "tmNo": 36,
+        "year_": 1974,
         "lgID": "NHL",
         "tmID": "NJD",
         "franchID": "NJD",
@@ -864,7 +900,8 @@
         "echlAffiliate": "Adirondack Thunder"
     },
     {
-        "year": 1974,
+        "tmNo": 37,
+        "year_": 1974,
         "lgID": "NHL",
         "tmID": "WAS",
         "franchID": "WAS",
@@ -888,7 +925,8 @@
         "echlAffiliate": "South Carolina Stringrays"
     },
     {
-        "year": 1976,
+        "tmNo": 38,
+        "year_": 1976,
         "lgID": "NHL",
         "tmID": "COR",
         "franchID": "NJD",
@@ -912,7 +950,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1979,
+        "tmNo": 39,
+        "year_": 1979,
         "lgID": "NHL",
         "tmID": "HAR",
         "franchID": "CAR",
@@ -936,7 +975,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1979,
+        "tmNo": 40,
+        "year_": 1979,
         "lgID": "NHL",
         "tmID": "QUE",
         "franchID": "COL",
@@ -960,7 +1000,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1979,
+        "tmNo": 41,
+        "year_": 1979,
         "lgID": "NHL",
         "tmID": "ARI",
         "franchID": "ARI",
@@ -984,7 +1025,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1979,
+        "tmNo": 42,
+        "year_": 1979,
         "lgID": "NHL",
         "tmID": "CAR",
         "franchID": "CAR",
@@ -1008,7 +1050,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1979,
+        "tmNo": 43,
+        "year_": 1979,
         "lgID": "NHL",
         "tmID": "COL",
         "franchID": "COL",
@@ -1032,7 +1075,8 @@
         "echlAffiliate": "Utah Grizzlies"
     },
     {
-        "year": 1979,
+        "tmNo": 44,
+        "year_": 1979,
         "lgID": "NHL",
         "tmID": "EDM",
         "franchID": "EDM",
@@ -1056,7 +1100,8 @@
         "echlAffiliate": "Fort Wayne Komets"
     },
     {
-        "year": 1979,
+        "tmNo": 45,
+        "year_": 1979,
         "lgID": "NHL",
         "tmID": "WIN",
         "franchID": "ARI",
@@ -1080,7 +1125,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1991,
+        "tmNo": 46,
+        "year_": 1991,
         "lgID": "NHL",
         "tmID": "SJS",
         "franchID": "SJS",
@@ -1104,7 +1150,8 @@
         "echlAffiliate": "Wichita Thunder"
     },
     {
-        "year": 1992,
+        "tmNo": 47,
+        "year_": 1992,
         "lgID": "NHL",
         "tmID": "OTT",
         "franchID": "OTT",
@@ -1128,7 +1175,8 @@
         "echlAffiliate": "Allen Americans"
     },
     {
-        "year": 1992,
+        "tmNo": 48,
+        "year_": 1992,
         "lgID": "NHL",
         "tmID": "TBL",
         "franchID": "TBL",
@@ -1152,7 +1200,8 @@
         "echlAffiliate": "Orlando Solar Bears"
     },
     {
-        "year": 1993,
+        "tmNo": 49,
+        "year_": 1993,
         "lgID": "NHL",
         "tmID": "ANA",
         "franchID": "ANA",
@@ -1176,7 +1225,8 @@
         "echlAffiliate": "Tulsa Oilers"
     },
     {
-        "year": 1993,
+        "tmNo": 50,
+        "year_": 1993,
         "lgID": "NHL",
         "tmID": "FLO",
         "franchID": "FLO",
@@ -1200,7 +1250,8 @@
         "echlAffiliate": "Florida Everblades"
     },
     {
-        "year": 1996,
+        "tmNo": 51,
+        "year_": 1996,
         "lgID": "NHL",
         "tmID": "PHO",
         "franchID": "ARI",
@@ -1224,7 +1275,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1998,
+        "tmNo": 52,
+        "year_": 1998,
         "lgID": "NHL",
         "tmID": "NAS",
         "franchID": "NAS",
@@ -1248,7 +1300,8 @@
         "echlAffiliate": "Atlanta Gladiators"
     },
     {
-        "year": 1999,
+        "tmNo": 53,
+        "year_": 1999,
         "lgID": "NHL",
         "tmID": "WPG",
         "franchID": "WPG",
@@ -1272,7 +1325,8 @@
         "echlAffiliate": "Norfolk Admirals"
     },
     {
-        "year": 1999,
+        "tmNo": 54,
+        "year_": 1999,
         "lgID": "NHL",
         "tmID": "ATL",
         "franchID": "WPG",
@@ -1296,7 +1350,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 2000,
+        "tmNo": 55,
+        "year_": 2000,
         "lgID": "NHL",
         "tmID": "CBS",
         "franchID": "CBS",
@@ -1320,7 +1375,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 2000,
+        "tmNo": 56,
+        "year_": 2000,
         "lgID": "NHL",
         "tmID": "MIN",
         "franchID": "MIN",
@@ -1344,7 +1400,8 @@
         "echlAffiliate": "Iowa Heartlanders"
     },
     {
-        "year": 2016,
+        "tmNo": 57,
+        "year_": 2016,
         "lgID": "NHL",
         "tmID": "VGK",
         "franchID": "VGK",
@@ -1368,7 +1425,8 @@
         "echlAffiliate": "Savannah Ghost Pirates"
     },
     {
-        "year": 2021,
+        "tmNo": 58,
+        "year_": 2021,
         "lgID": "NHL",
         "tmID": "SEA",
         "franchID": "SEA",
@@ -1392,7 +1450,8 @@
         "echlAffiliate": "Kansas City Mavericks"
     },
     {
-        "year": 1981,
+        "tmNo": 59,
+        "year_": 1981,
         "lgID": "ECHL",
         "tmID": "UTA",
         "franchID": "n/a",
@@ -1416,7 +1475,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1981,
+        "tmNo": 60,
+        "year_": 1981,
         "lgID": "ECHL",
         "tmID": "WHL",
         "franchID": "n/a",
@@ -1440,7 +1500,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1985,
+        "tmNo": 61,
+        "year_": 1985,
         "lgID": "ECHL",
         "tmID": "FW",
         "franchID": "n/a",
@@ -1464,7 +1525,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1987,
+        "tmNo": 62,
+        "year_": 1987,
         "lgID": "ECHL",
         "tmID": "GVL",
         "franchID": "n/a",
@@ -1488,7 +1550,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1989,
+        "tmNo": 63,
+        "year_": 1989,
         "lgID": "ECHL",
         "tmID": "MNE",
         "franchID": "n/a",
@@ -1512,7 +1575,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1990,
+        "tmNo": 64,
+        "year_": 1990,
         "lgID": "ECHL",
         "tmID": "ADK",
         "franchID": "n/a",
@@ -1536,7 +1600,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1991,
+        "tmNo": 65,
+        "year_": 1991,
         "lgID": "ECHL",
         "tmID": "REA",
         "franchID": "n/a",
@@ -1560,7 +1625,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1991,
+        "tmNo": 66,
+        "year_": 1991,
         "lgID": "ECHL",
         "tmID": "TOL",
         "franchID": "n/a",
@@ -1584,7 +1650,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1992,
+        "tmNo": 67,
+        "year_": 1992,
         "lgID": "ECHL",
         "tmID": "JAX",
         "franchID": "n/a",
@@ -1608,7 +1675,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1992,
+        "tmNo": 68,
+        "year_": 1992,
         "lgID": "ECHL",
         "tmID": "TUL",
         "franchID": "n/a",
@@ -1632,7 +1700,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1992,
+        "tmNo": 69,
+        "year_": 1992,
         "lgID": "ECHL",
         "tmID": "WIC",
         "franchID": "n/a",
@@ -1656,7 +1725,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1993,
+        "tmNo": 70,
+        "year_": 1993,
         "lgID": "ECHL",
         "tmID": "SC",
         "franchID": "n/a",
@@ -1680,7 +1750,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1995,
+        "tmNo": 71,
+        "year_": 1995,
         "lgID": "ECHL",
         "tmID": "ATL",
         "franchID": "n/a",
@@ -1704,7 +1775,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1995,
+        "tmNo": 72,
+        "year_": 1995,
         "lgID": "ECHL",
         "tmID": "CIN",
         "franchID": "n/a",
@@ -1728,7 +1800,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1995,
+        "tmNo": 73,
+        "year_": 1995,
         "lgID": "ECHL",
         "tmID": "NOR",
         "franchID": "n/a",
@@ -1752,7 +1825,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1997,
+        "tmNo": 74,
+        "year_": 1997,
         "lgID": "ECHL",
         "tmID": "IDH",
         "franchID": "n/a",
@@ -1776,7 +1850,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1998,
+        "tmNo": 75,
+        "year_": 1998,
         "lgID": "ECHL",
         "tmID": "FLA",
         "franchID": "n/a",
@@ -1800,7 +1875,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1999,
+        "tmNo": 76,
+        "year_": 1999,
         "lgID": "ECHL",
         "tmID": "KAL",
         "franchID": "n/a",
@@ -1824,7 +1900,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 2008,
+        "tmNo": 77,
+        "year_": 2008,
         "lgID": "ECHL",
         "tmID": "RC",
         "franchID": "n/a",
@@ -1848,7 +1925,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 2009,
+        "tmNo": 78,
+        "year_": 2009,
         "lgID": "ECHL",
         "tmID": "ALN",
         "franchID": "n/a",
@@ -1872,7 +1950,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 2009,
+        "tmNo": 79,
+        "year_": 2009,
         "lgID": "ECHL",
         "tmID": "KC",
         "franchID": "n/a",
@@ -1896,7 +1975,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 2012,
+        "tmNo": 80,
+        "year_": 2012,
         "lgID": "ECHL",
         "tmID": "ORL",
         "franchID": "n/a",
@@ -1920,7 +2000,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 2014,
+        "tmNo": 81,
+        "year_": 2014,
         "lgID": "ECHL",
         "tmID": "IND",
         "franchID": "n/a",
@@ -1944,7 +2025,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 2017,
+        "tmNo": 82,
+        "year_": 2017,
         "lgID": "ECHL",
         "tmID": "WOR",
         "franchID": "n/a",
@@ -1968,7 +2050,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 2018,
+        "tmNo": 83,
+        "year_": 2018,
         "lgID": "ECHL",
         "tmID": "NFL",
         "franchID": "n/a",
@@ -1992,7 +2075,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 2021,
+        "tmNo": 84,
+        "year_": 2021,
         "lgID": "ECHL",
         "tmID": "IA",
         "franchID": "n/a",
@@ -2016,7 +2100,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 2021,
+        "tmNo": 85,
+        "year_": 2021,
         "lgID": "ECHL",
         "tmID": "TR",
         "franchID": "n/a",
@@ -2040,7 +2125,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 2022,
+        "tmNo": 86,
+        "year_": 2022,
         "lgID": "ECHL",
         "tmID": "SAV",
         "franchID": "n/a",
@@ -2064,7 +2150,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1926,
+        "tmNo": 87,
+        "year_": 1926,
         "lgID": "AHL",
         "tmID": "HFD",
         "franchID": "n/a",
@@ -2088,7 +2175,8 @@
         "echlAffiliate": "Cincinnati Cyclones"
     },
     {
-        "year": 1932,
+        "tmNo": 88,
+        "year_": 1932,
         "lgID": "AHL",
         "tmID": "ABB",
         "franchID": "n/a",
@@ -2112,7 +2200,8 @@
         "echlAffiliate": "Kalamazoo Wings"
     },
     {
-        "year": 1938,
+        "tmNo": 89,
+        "year_": 1938,
         "lgID": "AHL",
         "tmID": "HER",
         "franchID": "n/a",
@@ -2136,7 +2225,8 @@
         "echlAffiliate": "South Carolina Stringrays"
     },
     {
-        "year": 1956,
+        "tmNo": 90,
+        "year_": 1956,
         "lgID": "AHL",
         "tmID": "ROC",
         "franchID": "n/a",
@@ -2160,7 +2250,8 @@
         "echlAffiliate": "Jacksonville Icemen"
     },
     {
-        "year": 1969,
+        "tmNo": 91,
+        "year_": 1969,
         "lgID": "AHL",
         "tmID": "LAV",
         "franchID": "n/a",
@@ -2184,7 +2275,8 @@
         "echlAffiliate": "Trois-Rivieres Lions"
     },
     {
-        "year": 1970,
+        "tmNo": 92,
+        "year_": 1970,
         "lgID": "AHL",
         "tmID": "MIL",
         "franchID": "n/a",
@@ -2208,7 +2300,8 @@
         "echlAffiliate": "Atlanta Gladiators"
     },
     {
-        "year": 1971,
+        "tmNo": 93,
+        "year_": 1971,
         "lgID": "AHL",
         "tmID": "HSK",
         "franchID": "n/a",
@@ -2232,7 +2325,8 @@
         "echlAffiliate": "Savannah Ghost Pirates"
     },
     {
-        "year": 1972,
+        "tmNo": 94,
+        "year_": 1972,
         "lgID": "AHL",
         "tmID": "BEL",
         "franchID": "n/a",
@@ -2256,7 +2350,8 @@
         "echlAffiliate": "Allen Americans"
     },
     {
-        "year": 1975,
+        "tmNo": 95,
+        "year_": 1975,
         "lgID": "AHL",
         "tmID": "SPR",
         "franchID": "n/a",
@@ -2280,7 +2375,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1977,
+        "tmNo": 96,
+        "year_": 1977,
         "lgID": "AHL",
         "tmID": "CGY",
         "franchID": "n/a",
@@ -2304,7 +2400,8 @@
         "echlAffiliate": "Rapid City Rush"
     },
     {
-        "year": 1978,
+        "tmNo": 97,
+        "year_": 1978,
         "lgID": "AHL",
         "tmID": "TOR",
         "franchID": "n/a",
@@ -2328,7 +2425,8 @@
         "echlAffiliate": "Newfoundland Growlers"
     },
     {
-        "year": 1981,
+        "tmNo": 98,
+        "year_": 1981,
         "lgID": "AHL",
         "tmID": "WBS",
         "franchID": "n/a",
@@ -2352,7 +2450,8 @@
         "echlAffiliate": "Wheeling Nailers"
     },
     {
-        "year": 1984,
+        "tmNo": 99,
+        "year_": 1984,
         "lgID": "AHL",
         "tmID": "BAK",
         "franchID": "n/a",
@@ -2376,7 +2475,8 @@
         "echlAffiliate": "Fort Wayne Komets"
     },
     {
-        "year": 1987,
+        "tmNo": 100,
+        "year_": 1987,
         "lgID": "AHL",
         "tmID": "PRO",
         "franchID": "n/a",
@@ -2400,7 +2500,8 @@
         "echlAffiliate": "Maine Mariners"
     },
     {
-        "year": 1990,
+        "tmNo": 101,
+        "year_": 1990,
         "lgID": "AHL",
         "tmID": "CLT",
         "franchID": "n/a",
@@ -2424,7 +2525,8 @@
         "echlAffiliate": "Florida Everblades"
     },
     {
-        "year": 1992,
+        "tmNo": 102,
+        "year_": 1992,
         "lgID": "AHL",
         "tmID": "SYR",
         "franchID": "n/a",
@@ -2448,7 +2550,8 @@
         "echlAffiliate": "Orlando Solar Bears"
     },
     {
-        "year": 1994,
+        "tmNo": 103,
+        "year_": 1994,
         "lgID": "AHL",
         "tmID": "CLE",
         "franchID": "n/a",
@@ -2472,7 +2575,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1994,
+        "tmNo": 104,
+        "year_": 1994,
         "lgID": "AHL",
         "tmID": "IA",
         "franchID": "n/a",
@@ -2496,7 +2600,8 @@
         "echlAffiliate": "Iowa Heartlanders"
     },
     {
-        "year": 1994,
+        "tmNo": 105,
+        "year_": 1994,
         "lgID": "AHL",
         "tmID": "MB",
         "franchID": "n/a",
@@ -2520,7 +2625,8 @@
         "echlAffiliate": "Norfolk Admirals"
     },
     {
-        "year": 1994,
+        "tmNo": 106,
+        "year_": 1994,
         "lgID": "AHL",
         "tmID": "TUC",
         "franchID": "n/a",
@@ -2544,7 +2650,8 @@
         "echlAffiliate": "n/a"
     },
     {
-        "year": 1995,
+        "tmNo": 107,
+        "year_": 1995,
         "lgID": "AHL",
         "tmID": "RFD",
         "franchID": "n/a",
@@ -2568,7 +2675,8 @@
         "echlAffiliate": "Indy Fuel"
     },
     {
-        "year": 1996,
+        "tmNo": 108,
+        "year_": 1996,
         "lgID": "AHL",
         "tmID": "GR",
         "franchID": "n/a",
@@ -2592,7 +2700,8 @@
         "echlAffiliate": "Toledo Walleye"
     },
     {
-        "year": 1996,
+        "tmNo": 109,
+        "year_": 1996,
         "lgID": "AHL",
         "tmID": "LV",
         "franchID": "n/a",
@@ -2616,7 +2725,8 @@
         "echlAffiliate": "Reading Royals"
     },
     {
-        "year": 1996,
+        "tmNo": 110,
+        "year_": 1996,
         "lgID": "AHL",
         "tmID": "SJ",
         "franchID": "n/a",
@@ -2640,7 +2750,8 @@
         "echlAffiliate": "Wichita Thunder"
     },
     {
-        "year": 1998,
+        "tmNo": 111,
+        "year_": 1998,
         "lgID": "AHL",
         "tmID": "UTC",
         "franchID": "n/a",
@@ -2664,7 +2775,8 @@
         "echlAffiliate": "Adirondack Thunder"
     },
     {
-        "year": 1999,
+        "tmNo": 112,
+        "year_": 1999,
         "lgID": "AHL",
         "tmID": "TEX",
         "franchID": "n/a",
@@ -2688,7 +2800,8 @@
         "echlAffiliate": "Idaho Steelheads"
     },
     {
-        "year": 2000,
+        "tmNo": 113,
+        "year_": 2000,
         "lgID": "AHL",
         "tmID": "SD",
         "franchID": "n/a",
@@ -2712,7 +2825,8 @@
         "echlAffiliate": "Tulsa Oilers"
     },
     {
-        "year": 2001,
+        "tmNo": 114,
+        "year_": 2001,
         "lgID": "AHL",
         "tmID": "BRI",
         "franchID": "n/a",
@@ -2736,7 +2850,8 @@
         "echlAffiliate": "Worcester Railers"
     },
     {
-        "year": 2001,
+        "tmNo": 115,
+        "year_": 2001,
         "lgID": "AHL",
         "tmID": "ONT",
         "franchID": "n/a",
@@ -2760,7 +2875,8 @@
         "echlAffiliate": "Greenville Swamp Rabbits"
     },
     {
-        "year": 2018,
+        "tmNo": 116,
+        "year_": 2018,
         "lgID": "AHL",
         "tmID": "COL",
         "franchID": "n/a",
@@ -2784,7 +2900,8 @@
         "echlAffiliate": "Utah Grizzlies"
     },
     {
-        "year": 2022,
+        "tmNo": 117,
+        "year_": 2022,
         "lgID": "AHL",
         "tmID": "CV",
         "franchID": "n/a",

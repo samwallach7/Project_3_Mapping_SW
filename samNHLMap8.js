@@ -187,7 +187,7 @@ for (let i = 0; i < jsonData.length; i++) {
     let team = jsonData[i]
     if (team.active === "yes") {
         let activeMarker = L.marker([team.lat, team.long], { icon: getCustomIcon(team) });
-        activeMarker.bindPopup(`<h2>${team.teamName}</h2> <hr> Year Founded: ${team.year}
+        activeMarker.bindPopup(`<h2>${team.teamName}</h2> <hr> Year Founded: ${team.year_}
         <br>Conference: ${team.conference}<br>Total Seasons: ${team.totalSeasons}
         <br>Playoff Seasons: ${team.playoffSeasons}<br>Percent of Seasons in Playoffs: ${team.playoffPercent}
         <br>Stanley Cup Appearances: ${team.SCAppearances}<br>Stanley Cup Titles: ${team.StanleyCupWins}`);
@@ -206,7 +206,7 @@ for (let i = 0; i < jsonData.length; i++) {
     let team = jsonData[i]
     if (team.conference === "Eastern") {
         let ecMarker = L.marker([team.lat, team.long], { icon: getCustomIcon(team) });
-        ecMarker.bindPopup(`<h2>${team.teamName}</h2> <hr> Year Founded: ${team.year}
+        ecMarker.bindPopup(`<h2>${team.teamName}</h2> <hr> Year Founded: ${team.year_}
         <br>Conference: ${team.conference}<br>Total Seasons: ${team.totalSeasons}
         <br>Playoff Seasons: ${team.playoffSeasons}<br>Percent of Seasons in Playoffs: ${team.playoffPercent}
         <br>Stanley Cup Appearances: ${team.SCAppearances}<br>Stanley Cup Titles: ${team.StanleyCupWins}`);
@@ -225,7 +225,7 @@ for (let i = 0; i < jsonData.length; i++) {
     let team = jsonData[i]
     if (team.conference === "Western") {
         let wcMarker = L.marker([team.lat, team.long], { icon: getCustomIcon(team) });
-        wcMarker.bindPopup(`<h2>${team.teamName}</h2> <hr> Year Founded: ${team.year}
+        wcMarker.bindPopup(`<h2>${team.teamName}</h2> <hr> Year Founded: ${team.year_}
         <br>Conference: ${team.conference}<br>Total Seasons: ${team.totalSeasons}
         <br>Playoff Seasons: ${team.playoffSeasons}<br>Percent of Seasons in Playoffs: ${team.playoffPercent}
         <br>Stanley Cup Appearances: ${team.SCAppearances}<br>Stanley Cup Titles: ${team.StanleyCupWins}`);
@@ -244,7 +244,7 @@ for (let i = 0; i < jsonData.length; i++) {
     let team = jsonData[i]
     if (team.StanleyCupWins > 4) {
         let scMarker = L.marker([team.lat, team.long], { icon: getCustomIcon(team) });
-        scMarker.bindPopup(`<h2>${team.teamName}</h2> <hr> Year Founded: ${team.year}
+        scMarker.bindPopup(`<h2>${team.teamName}</h2> <hr> Year Founded: ${team.year_}
         <br>Conference: ${team.conference}<br>Total Seasons: ${team.totalSeasons}
         <br>Playoff Seasons: ${team.playoffSeasons}<br>Percent of Seasons in Playoffs: ${team.playoffPercent}
         <br>Stanley Cup Appearances: ${team.SCAppearances}<br>Stanley Cup Titles: ${team.StanleyCupWins}`);
@@ -263,7 +263,7 @@ for (let i = 0; i < jsonData.length; i++) {
     let team = jsonData[i]
     if (team.playoffPercent > .5 && team.active === "yes") {
         let playoffMarker = L.marker([team.lat, team.long], { icon: getCustomIcon(team) });
-        playoffMarker.bindPopup(`<h2>${team.teamName}</h2> <hr> Year Founded: ${team.year}
+        playoffMarker.bindPopup(`<h2>${team.teamName}</h2> <hr> Year Founded: ${team.year_}
         <br>Conference: ${team.conference}<br>Total Seasons: ${team.totalSeasons}
         <br>Playoff Seasons: ${team.playoffSeasons}<br>Percent of Seasons in Playoffs: ${team.playoffPercent}
         <br>Stanley Cup Appearances: ${team.SCAppearances}<br>Stanley Cup Titles: ${team.StanleyCupWins}`);
@@ -282,7 +282,7 @@ for (let i = 0; i < jsonData.length; i++) {
     let team = jsonData[i]
     if (team.totalSeasons > 49 && team.active === "yes") {
         let seasonsMarker = L.marker([team.lat, team.long], { icon: getCustomIcon(team) });
-        seasonsMarker.bindPopup(`<h2>${team.teamName}</h2> <hr> Year Founded: ${team.year}
+        seasonsMarker.bindPopup(`<h2>${team.teamName}</h2> <hr> Year Founded: ${team.year_}
         <br>Conference: ${team.conference}<br>Total Seasons: ${team.totalSeasons}
         <br>Playoff Seasons: ${team.playoffSeasons}<br>Percent of Seasons in Playoffs: ${team.playoffPercent}
         <br>Stanley Cup Appearances: ${team.SCAppearances}<br>Stanley Cup Titles: ${team.StanleyCupWins}`);
@@ -301,7 +301,7 @@ for (let i = 0; i < jsonData.length; i++) {
     let team = jsonData[i]
     if (team.active === "no") {
         let defunctMarker = L.marker([team.lat, team.long], { icon: getCustomIcon(team) });
-        defunctMarker.bindPopup(`<h2>${team.teamName}</h2><hr> Year Founded: ${team.year}
+        defunctMarker.bindPopup(`<h2>${team.teamName}</h2><hr> Year Founded: ${team.year_}
         <br>Total Seasons: ${team.totalSeasons}<br>Playoff Seasons: ${team.playoffSeasons}
         <br>Percent of Seasons in Playoffs: ${team.playoffPercent}<br>Stanley Cup Appearances: ${team.SCAppearances}
         <br>Stanley Cup Titles: ${team.StanleyCupWins}<br>Last Season: ${team.lastSeason}`);
@@ -320,7 +320,7 @@ for (let i = 0; i < jsonData.length; i++) {
     let team = jsonData[i]
     if (team.active === "moved") {
         let teamMoveMarker = L.marker([team.lat, team.long], { icon: getCustomIcon(team) });
-        teamMoveMarker.bindPopup(`<h2>${team.teamName}</h2><hr> Year Founded: ${team.year}
+        teamMoveMarker.bindPopup(`<h2>${team.teamName}</h2><hr> Year Founded: ${team.year_}
         <br>Franchise: ${team.franchID}<br>Total Seasons: ${team.totalSeasons}<br>Last Season: ${team.lastSeason}
         <br>Team Changed To: ${team.teamChange}`);
 
@@ -393,7 +393,7 @@ for (let i = 0; i < jsonData.length; i++) {
     let team = jsonData[i]
     if (team.lgID === "AHL") {
         let ahlMarker = L.marker([team.lat, team.long], { icon: getMLCustomIcon(team) });
-        ahlMarker.bindPopup(`<h2>${team.teamName}</h2><hr> Year Founded: ${team.year}
+        ahlMarker.bindPopup(`<h2>${team.teamName}</h2><hr> Year Founded: ${team.year_}
         <br>NHL Affiliate: ${team.nhlAffiliate}<br>ECHL Affiliate: ${team.echlAffiliate}`);
         ahlMarkers.push(ahlMarker); // Push marker to array
 
@@ -410,7 +410,7 @@ for (let i = 0; i < jsonData.length; i++) {
     let team = jsonData[i]
     if (team.lgID === "ECHL") {
         let echlMarker = L.marker([team.lat, team.long], { icon: getMLCustomIcon(team) });
-        echlMarker.bindPopup(`<h2>${team.teamName}</h2><hr> Year Founded: ${team.year}
+        echlMarker.bindPopup(`<h2>${team.teamName}</h2><hr> Year Founded: ${team.year_}
         <br>NHL Affiliate: ${team.nhlAffiliate}<br>AHL Affiliate: ${team.ahlAffiliate}`);
         echlMarkers.push(echlMarker); // Push marker to array
 

@@ -1,5 +1,6 @@
 CREATE TABLE NHL_Mapping (
-    year INTEGER   NOT NULL,
+    tmNo INTEGER   NOT NULL,
+    year_ INTEGER   NOT NULL,
     lgID VARCHAR(10)   NOT NULL,
     tmID VARCHAR(10)   NOT NULL,
     franchID VARCHAR(10)   NOT NULL,
@@ -23,6 +24,6 @@ CREATE TABLE NHL_Mapping (
     echlAffiliate VARCHAR(50)   NOT NULL,
 
     CONSTRAINT pk_NHL_Mapping PRIMARY KEY (
-        tmID
+        tmNo
      )
 );
